@@ -5,43 +5,5 @@
 	}],
 	"profile": {
 		"name": "Mahipat"
-	},
-	"customers": [{
-			"id": 1,
-			"name": "Mahipat Singh",
-			"age": 30
-		},
-		{
-			"id": 2,
-			"name": "Bhanu Singh",
-			"age": 30
-		},
-		{
-			"id": 3,
-			"name": "Raj Singh",
-			"age": 30
-		},
-		{
-			"id": 4,
-			"name": "S K Singh",
-			"age": 30
-		}
-	],
-	"customer": [{
-			"id": 1,
-			"addresses": ["Bangalore", "Dhanbad"]
-		},
-		{
-			"id": 1,
-			"addresses": ["Delhi", "Dhanbad"]
-		},
-		{
-			"id": 1,
-			"addresses": ["Bombay", "Dhanbad"]
-		},
-		{
-			"id": 4,
-			"addresses": ["Arah", "Dhanbad", "Bangalore"]
-		}
-	]
+	}
 }
